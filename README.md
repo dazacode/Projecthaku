@@ -2,6 +2,8 @@
 
 Project Haku is an AI-powered Japanese learning assistant that helps users practice and learn Japanese through interactive conversations. Built with Next.js 13, Supabase, and modern web technologies.
 
+[This project is broken, which is why I've decided to open source if anyone want to contribute through it]
+
 ## Features
 
 - 🤖 AI-powered Japanese learning assistant
